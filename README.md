@@ -20,4 +20,4 @@ Cryptographic primitives used are -
 
 This is implemented in Golang.
 
-Check Detailed Design Document for more details.
+Check Design Document for more details.
