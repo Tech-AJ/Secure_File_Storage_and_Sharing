@@ -12,7 +12,7 @@ Supported Functionalities :\
 -> Give Acess to your file to someone else - 'share access'\
 -> Revoke 'share access' from someone you previously shared the file with
 
-Cryptography primitives used are -  
+Cryptographic primitives used are -  
 -> AES encryption (for confidentiality)  
 -> RSA encryption and signature verification (for authentication)  
 -> HMAC (for Integrity)  
